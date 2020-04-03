@@ -1,1 +1,5 @@
-# coronavirus_merged_datasources
+# Coronavirus Merged Data Sources - Daily Updates
+
+In an effort to help people stay informed and updated on Coronavirus (COVID-19), Data Science Dojo has decided to merge together several data sources of daily reports on the situation. This merged dataset includes not only the latest cases and death counts, but also the travel advisory levels and travel restrictions, by country. This will be updated daily for your convenience, with past days of the data in CSV format archived in our public git repository. 
+
+This single view of the current status of Coronavirus is pulled, cleaned and merged daily from the [World Health Organization reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/), [US Department of State Travel Advisories](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/), [Smart Traveller](https://www.smartraveller.gov.au/), and [CNN news service](https://www.cnn.com/travel/article/coronavirus-travel-bans/index.html).
